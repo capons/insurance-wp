@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ffea7d5-f548-4952-a36b-8e73e907d9fc" name="Default" comment="" />
+    <ignored path="NEW-WP.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="NEW-WP" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="8.150944">
+              <caret line="48" column="103" selection-start-line="48" selection-start-column="103" selection-end-line="48" selection-end-column="103" />
+              <folding>
+                <element signature="e#6#269#0#PHP" expanded="true" />
+                <element signature="e#538#614#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/style/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.192307">
+              <caret line="463" column="14" selection-start-line="463" selection-start-column="14" selection-end-line="463" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="80.0">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding>
+                <element signature="e#862#881#0#HTML" expanded="true" />
+                <element signature="e#1129#1150#0#HTML" expanded="true" />
+                <element signature="e#3211#3233#0#HTML" expanded="true" />
+                <element signature="e#3446#3492#0#HTML" expanded="true" />
+                <element signature="e#3496#3622#0#HTML" expanded="true" />
+                <element signature="e#3731#3777#0#HTML" expanded="true" />
+                <element signature="e#3781#3907#0#HTML" expanded="true" />
+                <element signature="e#4015#4061#0#HTML" expanded="true" />
+                <element signature="e#4065#4191#0#HTML" expanded="true" />
+                <element signature="e#4273#4295#0#HTML" expanded="true" />
+                <element signature="e#5706#5745#0#HTML" expanded="true" />
+                <element signature="e#5984#6023#0#HTML" expanded="true" />
+                <element signature="e#6363#6402#0#HTML" expanded="true" />
+                <element signature="e#7549#7589#0#HTML" expanded="true" />
+                <element signature="e#7622#7658#0#HTML" expanded="true" />
+                <element signature="e#8147#8170#0#HTML" expanded="true" />
+                <element signature="e#8428#8450#0#HTML" expanded="true" />
+                <element signature="e#9409#9431#0#HTML" expanded="true" />
+                <element signature="e#9992#10047#0#HTML" expanded="true" />
+                <element signature="e#10222#10292#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/comments.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.17555939">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/insurance/template-parts/index.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/insurance/index.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/insurance/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/insurance/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/insurance/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/insurance/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/insurance/style/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/insurance/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/insurance/comments.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="insurance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW-WP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="insurance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\bogdan\NEW-WP\wp-content\themes\insurance\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ffea7d5-f548-4952-a36b-8e73e907d9fc" name="Default" comment="" />
+      <created>1462547642204</created>
+      <option name="number" value="Default" />
+      <updated>1462547642204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="57" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
+          <folding>
+            <element signature="e#6#269#0#PHP" expanded="true" />
+            <element signature="e#538#614#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#862#881#0#HTML" expanded="true" />
+            <element signature="e#1129#1150#0#HTML" expanded="true" />
+            <element signature="e#3211#3233#0#HTML" expanded="true" />
+            <element signature="e#3446#3492#0#HTML" expanded="true" />
+            <element signature="e#3496#3622#0#HTML" expanded="true" />
+            <element signature="e#3731#3777#0#HTML" expanded="true" />
+            <element signature="e#3781#3907#0#HTML" expanded="true" />
+            <element signature="e#4015#4061#0#HTML" expanded="true" />
+            <element signature="e#4065#4191#0#HTML" expanded="true" />
+            <element signature="e#4273#4295#0#HTML" expanded="true" />
+            <element signature="e#5706#5745#0#HTML" expanded="true" />
+            <element signature="e#5984#6023#0#HTML" expanded="true" />
+            <element signature="e#6363#6402#0#HTML" expanded="true" />
+            <element signature="e#7549#7589#0#HTML" expanded="true" />
+            <element signature="e#7622#7658#0#HTML" expanded="true" />
+            <element signature="e#8147#8170#0#HTML" expanded="true" />
+            <element signature="e#8428#8450#0#HTML" expanded="true" />
+            <element signature="e#9409#9431#0#HTML" expanded="true" />
+            <element signature="e#9992#10047#0#HTML" expanded="true" />
+            <element signature="e#10222#10292#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="57" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
+          <folding>
+            <element signature="e#6#269#0#PHP" expanded="true" />
+            <element signature="e#538#614#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#862#881#0#HTML" expanded="true" />
+            <element signature="e#1129#1150#0#HTML" expanded="true" />
+            <element signature="e#3211#3233#0#HTML" expanded="true" />
+            <element signature="e#3446#3492#0#HTML" expanded="true" />
+            <element signature="e#3496#3622#0#HTML" expanded="true" />
+            <element signature="e#3731#3777#0#HTML" expanded="true" />
+            <element signature="e#3781#3907#0#HTML" expanded="true" />
+            <element signature="e#4015#4061#0#HTML" expanded="true" />
+            <element signature="e#4065#4191#0#HTML" expanded="true" />
+            <element signature="e#4273#4295#0#HTML" expanded="true" />
+            <element signature="e#5706#5745#0#HTML" expanded="true" />
+            <element signature="e#5984#6023#0#HTML" expanded="true" />
+            <element signature="e#6363#6402#0#HTML" expanded="true" />
+            <element signature="e#7549#7589#0#HTML" expanded="true" />
+            <element signature="e#7622#7658#0#HTML" expanded="true" />
+            <element signature="e#8147#8170#0#HTML" expanded="true" />
+            <element signature="e#8428#8450#0#HTML" expanded="true" />
+            <element signature="e#9409#9431#0#HTML" expanded="true" />
+            <element signature="e#9992#10047#0#HTML" expanded="true" />
+            <element signature="e#10222#10292#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+          <folding>
+            <element signature="e#6#269#0#PHP" expanded="true" />
+            <element signature="e#538#614#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/template-parts/content1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="257" column="8" selection-start-line="257" selection-start-column="8" selection-end-line="257" selection-end-column="8" />
+          <folding>
+            <element signature="e#862#881#0#HTML" expanded="true" />
+            <element signature="e#1129#1150#0#HTML" expanded="true" />
+            <element signature="e#3211#3233#0#HTML" expanded="true" />
+            <element signature="e#3446#3492#0#HTML" expanded="true" />
+            <element signature="e#3496#3622#0#HTML" expanded="true" />
+            <element signature="e#3731#3777#0#HTML" expanded="true" />
+            <element signature="e#3781#3907#0#HTML" expanded="true" />
+            <element signature="e#4015#4061#0#HTML" expanded="true" />
+            <element signature="e#4065#4191#0#HTML" expanded="true" />
+            <element signature="e#4273#4295#0#HTML" expanded="true" />
+            <element signature="e#5706#5745#0#HTML" expanded="true" />
+            <element signature="e#5984#6023#0#HTML" expanded="true" />
+            <element signature="e#6363#6402#0#HTML" expanded="true" />
+            <element signature="e#7549#7589#0#HTML" expanded="true" />
+            <element signature="e#7622#7658#0#HTML" expanded="true" />
+            <element signature="e#8147#8170#0#HTML" expanded="true" />
+            <element signature="e#8428#8450#0#HTML" expanded="true" />
+            <element signature="e#9409#9431#0#HTML" expanded="true" />
+            <element signature="e#9992#10047#0#HTML" expanded="true" />
+            <element signature="e#10222#10292#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="80" column="70" selection-start-line="80" selection-start-column="70" selection-end-line="80" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/template-parts/content-search1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="80" column="70" selection-start-line="80" selection-start-column="70" selection-end-line="80" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31153184">
+          <caret line="360" column="9" selection-start-line="360" selection-start-column="9" selection-end-line="360" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/template-parts/content1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029259896">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12274368">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/js/masterslider.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="2856" column="31" selection-start-line="2856" selection-start-column="9" selection-end-line="2856" selection-end-column="31" />
+          <folding>
+            <marker date="1460046148000" expanded="true" signature="57823:57839" placeholder="Insert into post... " />
+            <marker date="1460046148000" expanded="true" signature="57849:57865" placeholder="Insert into page... " />
+            <marker date="1460046148000" expanded="true" signature="82983:83067" placeholder="SELECT post_... $" />
+            <marker date="1460046148000" expanded="true" signature="85003:85154" placeholder="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="85324:85417" placeholder="SELECT COUNT... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="91144:91184" placeholder="SELECT * FRO... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="92590:92658" placeholder="SELECT * FRO... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="92983:93060" placeholder="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="93512:93577" placeholder="SELECT comme... ${$wpdb-&gt;comments}" />
+            <marker date="1460046148000" expanded="true" signature="93770:93824" placeholder="SELECT meta_... ${$wpdb-&gt;postmeta}" />
+            <marker date="1460046148000" expanded="true" signature="98412:98495" placeholder="SELECT comme... ${$wpdb-&gt;comments}" />
+            <marker date="1460046148000" expanded="true" signature="100417:100500" placeholder="UPDATE ${$wp... " />
+            <marker date="1460046148000" expanded="true" signature="119758:119799" placeholder="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="130370:130446" placeholder="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="131518:131653" placeholder="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="132770:132865" placeholder="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="143223:143268" placeholder="SELECT pinge... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="144791:144836" placeholder="SELECT pinge... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="145406:145452" placeholder="SELECT to_pi... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="146884:146936" placeholder="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="148868:149008" placeholder="SELECT ID, p... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="150612:150710" placeholder="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="150771:150848" placeholder="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="162829:162887" placeholder="SELECT * FRO... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="167006:167046" placeholder="SELECT * FRO... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="168164:168229" placeholder="SELECT comme... ${$wpdb-&gt;comments}" />
+            <marker date="1460046148000" expanded="true" signature="168423:168477" placeholder="SELECT meta_... ${$wpdb-&gt;postmeta}" />
+            <marker date="1460046148000" expanded="true" signature="169048:169167" placeholder="SELECT meta_... ${$wpdb-&gt;postmeta}" />
+            <marker date="1460046148000" expanded="true" signature="190555:190700" placeholder="SELECT post_... " />
+            <marker date="1460046148000" expanded="true" signature="190759:190900" placeholder="SELECT post_... " />
+            <marker date="1460046148000" expanded="true" signature="191000:191194" placeholder="SELECT DATE_... " />
+            <marker date="1460046148000" expanded="true" signature="201939:202049" placeholder="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1460046148000" expanded="true" signature="204570:204626" placeholder="SELECT ${$wp... ${$wpdb-&gt;posts}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.150944">
+          <caret line="48" column="103" selection-start-line="48" selection-start-column="103" selection-end-line="48" selection-end-column="103" />
+          <folding>
+            <element signature="e#6#269#0#PHP" expanded="true" />
+            <element signature="e#538#614#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.192307">
+          <caret line="463" column="14" selection-start-line="463" selection-start-column="14" selection-end-line="463" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="80.0">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#862#881#0#HTML" expanded="true" />
+            <element signature="e#1129#1150#0#HTML" expanded="true" />
+            <element signature="e#3211#3233#0#HTML" expanded="true" />
+            <element signature="e#3446#3492#0#HTML" expanded="true" />
+            <element signature="e#3496#3622#0#HTML" expanded="true" />
+            <element signature="e#3731#3777#0#HTML" expanded="true" />
+            <element signature="e#3781#3907#0#HTML" expanded="true" />
+            <element signature="e#4015#4061#0#HTML" expanded="true" />
+            <element signature="e#4065#4191#0#HTML" expanded="true" />
+            <element signature="e#4273#4295#0#HTML" expanded="true" />
+            <element signature="e#5706#5745#0#HTML" expanded="true" />
+            <element signature="e#5984#6023#0#HTML" expanded="true" />
+            <element signature="e#6363#6402#0#HTML" expanded="true" />
+            <element signature="e#7549#7589#0#HTML" expanded="true" />
+            <element signature="e#7622#7658#0#HTML" expanded="true" />
+            <element signature="e#8147#8170#0#HTML" expanded="true" />
+            <element signature="e#8428#8450#0#HTML" expanded="true" />
+            <element signature="e#9409#9431#0#HTML" expanded="true" />
+            <element signature="e#9992#10047#0#HTML" expanded="true" />
+            <element signature="e#10222#10292#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/insurance/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.17555939">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
