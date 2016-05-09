@@ -5,83 +5,14 @@ get_header(); ?>
 
 	<?php //echo do_shortcode("[gs_logo]"); ?>
 <?php // echo do_shortcode("[contact-form-7 id=35 title='Contact form 1']"); ?>
-
+<?php// wp_get_archives('type=postbypost'); ?>
 
 <?php if(have_posts()): while(have_posts()):the_post();?>
 	<?php the_content(); ?>
 
 
-
-
 	<!--content -->
-	<section id="slider-section">
 
-			<?php// wd_slider(1); ?>
-
-		<!--
-        <div class="container">
-            <div class="col-lg-4">
-                <p id="s-sec-1">СТРАХОВАНИЕ<br>ВАШЕГО</p>
-                <p id="s-sec-2"><b>АВТОМОБИЛЯ</b></p>
-                <span class="s-sec-3">КАСКО</span><span class="s-sec-4">Диагностическая карта</span>
-                <span class="s-sec-5" >ОСАГО</span><span class="s-sec-4">Зеленые карты</span>
-                <button id="b-more-info"><span>УЗНАТЬ ПОДРОБНОСТИ >>></span></button>
-            </div>
-        </div>
-        -->
-		<div style="width: 100%" id="carousel-example-generic" class="carousel slide" data-ride="carousel"> <!--autoslide off data-interval="false" -->
-			<!-- Indicators -->
-			<ol class="carousel-indicators">
-				<li data-target="#carousel-example-generic" data-slide-to="0"><a style="display: none" class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev"></a></li>
-				<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-				<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-			</ol>
-			<!-- Wrapper for slides -->
-			<div class="carousel-inner" role="listbox">
-				<div class="item active">
-					<!--
-                    <img id="slider_bg_img" src="image/slider_bg.png">
-                    -->
-					<!--
-                    <div class="carousel-caption">
-                    -->
-					<div class="container">
-						<div class="col-xs-4">
-							<p id="s-sec-1">СТРАХОВАНИЕ<br>ВАШЕГО</p>
-							<p id="s-sec-2"><b>АВТОМОБИЛЯ</b></p>
-							<span class="s-sec-3">КАСКО</span><span class="s-sec-4">Диагностическая карта</span>
-							<span class="s-sec-5" >ОСАГО</span><span class="s-sec-4">Зеленые карты</span>
-							<button id="b-more-info"><span>УЗНАТЬ ПОДРОБНОСТИ >>></span></button>
-						</div>
-					</div>
-					<!-- </div>-->
-				</div>
-				<div class="item">
-					<div class="container">
-						<div class="col-xs-4">
-							<p id="s-sec-1">СТРАХОВАНИЕ<br>ВАШЕГО</p>
-							<p id="s-sec-2"><b>АВТОМОБИЛЯ</b></p>
-							<span class="s-sec-3">КАСКО</span><span class="s-sec-4">Диагностическая карта</span>
-							<span class="s-sec-5" >ОСАГО</span><span class="s-sec-4">Зеленые карты</span>
-							<button id="b-more-info"><span>УЗНАТЬ ПОДРОБНОСТИ >>></span></button>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="container">
-						<div class="col-xs-4">
-							<p id="s-sec-1">СТРАХОВАНИЕ<br>ВАШЕГО</p>
-							<p id="s-sec-2"><b>АВТОМОБИЛЯ</b></p>
-							<span class="s-sec-3">КАСКО</span><span class="s-sec-4">Диагностическая карта</span>
-							<span class="s-sec-5" >ОСАГО</span><span class="s-sec-4">Зеленые карты</span>
-							<button id="b-more-info"><span>УЗНАТЬ ПОДРОБНОСТИ >>></span></button>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-	</section>
 	<section id="main-content">
 		<div class="container">
 			<div id="buttons-m-c" style="padding: 30px;" class="row">
@@ -213,8 +144,13 @@ get_header(); ?>
 
 
 		<div  style=""  class="col-lg-5 col-lg-offset-1">
-			<div class="col-xs-12">
-				<p style="font-size: 30px">Новости</p>
+			<div style="display: flex; align-items: baseline;" class="col-xs-12">
+				<div class="col-lg-6">
+					<p style="font-size: 30px">Новости</p>
+				</div>
+				<div style="text-align: right" class="col-lg-6">
+					<a href="<?php echo get_site_url(); ?>/news_post">Все новости</a>
+				</div>
 			</div>
 			<?php
 
@@ -249,15 +185,27 @@ get_header(); ?>
 		</div>
 		<div style="background: rgb(235,234,230);" class="col-lg-6">
 			<div class="col-lg-11">
+				<!--
 				<div class="col-xs-12">
 					<p style="font-size: 30px">Полезная информация</p>
 				</div>
+				-->
+				<div style="display: flex; align-items: baseline;" class="col-xs-12">
+					<div class="col-lg-6">
+						<p style="font-size: 30px">Полезная информация</p>
+					</div>
+					<div style="text-align: right" class="col-lg-6">
+						<a href="<?php echo get_site_url(); ?>/help_info_post">Все статьи</a>
+					</div>
+				</div>
+
+
 				<div class="col-xs-12 no-padding">
 
 
 						<?php
 
-						$args = array('category_name' => 'second', 'posts_per_page' => 2, 'order'=> 'ASC', 'orderby' => 'title' );
+						$args = array('category_name' => 'help_info', 'posts_per_page' => 2, 'order'=> 'ASC', 'orderby' => 'title' );
 						$postslist = get_posts( $args);
 						foreach ( $postslist as $post ) :
 							setup_postdata( $post ); ?>

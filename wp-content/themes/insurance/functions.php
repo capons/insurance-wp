@@ -144,7 +144,30 @@ function remove_more_link_scroll( $link ) {
 }
 add_filter( 'the_content_more_link', 'remove_more_link_scroll' );
 */
+/*
+add_image_size( 'sml_size', 300 );
+add_image_size( 'mid_size', 600 );
+add_image_size( 'lrg_size', 1200 );
+add_image_size( 'sup_size', 2400 );
+*/
+/*Add responsive custome WP clas to add responsive image to content*/
+function add_responsive_class($content){
 
+	$content = mb_convert_encoding($content, 'HTML-ENTITIES', "UTF-8");
+	$document = new DOMDocument();
+	libxml_use_internal_errors(true);
+	$document->loadHTML(utf8_decode($content));
+
+	$imgs = $document->getElementsByTagName('img');
+	foreach ($imgs as $img) {
+		$img->setAttribute('class','img-responsive');
+	}
+
+	$html = $document->saveHTML();
+	return $html;
+}
+add_filter ('the_content', 'add_responsive_class');
+/*End add_responsive_class*/
 
 
 

@@ -10,7 +10,8 @@ body {
 .t-elign-c {
     text-align: center;
 }
-
+/*Menu active*/
+/*main menu*/
 .nav.navbar-nav > .active a { /*nav menu active OFF*/
     background-color: inherit; !important;
     color: white;
@@ -19,6 +20,17 @@ body {
     background-color: inherit; !important;
     color: white;
 }
+/*service menu*/
+#layout_menu > li.active {
+    background-color: #86a989;
+}
+/*End menu active*/
+/*WP NO RESPONSIV IMG + Snipe block*/
+#wp-img-inline  img {
+    display: inline-block;
+}
+/*End WP NO RESPONSIVE IMG*/
+
 
 /*header menu*/
 #s-menu {

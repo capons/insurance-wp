@@ -134,3 +134,72 @@
 		</div>
 	</section>
 </header>
+
+<section id="slider-section">
+
+	<?php// wd_slider(1); ?>
+
+	<!--
+    <div class="container">
+        <div class="col-lg-4">
+            <p id="s-sec-1">СТРАХОВАНИЕ<br>ВАШЕГО</p>
+            <p id="s-sec-2"><b>АВТОМОБИЛЯ</b></p>
+            <span class="s-sec-3">КАСКО</span><span class="s-sec-4">Диагностическая карта</span>
+            <span class="s-sec-5" >ОСАГО</span><span class="s-sec-4">Зеленые карты</span>
+            <button id="b-more-info"><span>УЗНАТЬ ПОДРОБНОСТИ >>></span></button>
+        </div>
+    </div>
+    -->
+	<div style="width: 100%" id="carousel-example-generic" class="carousel slide" data-ride="carousel"> <!--autoslide off data-interval="false" -->
+		<!-- Indicators -->
+		<ol class="carousel-indicators">
+			<li data-target="#carousel-example-generic" data-slide-to="0"><a style="display: none" class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev"></a></li>
+			<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+			<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+		</ol>
+		<!-- Wrapper for slides -->
+		<div class="carousel-inner" role="listbox">
+			<div class="item active">
+				<!--
+                <img id="slider_bg_img" src="image/slider_bg.png">
+                -->
+				<!--
+                <div class="carousel-caption">
+                -->
+				<div class="container">
+					<div class="col-xs-4">
+						<p id="s-sec-1">СТРАХОВАНИЕ<br>ВАШЕГО</p>
+						<p id="s-sec-2"><b>АВТОМОБИЛЯ</b></p>
+						<span class="s-sec-3">КАСКО</span><span class="s-sec-4">Диагностическая карта</span>
+						<span class="s-sec-5" >ОСАГО</span><span class="s-sec-4">Зеленые карты</span>
+						<button id="b-more-info"><span>УЗНАТЬ ПОДРОБНОСТИ >>></span></button>
+					</div>
+				</div>
+				<!-- </div>-->
+			</div>
+			<div class="item">
+				<div class="container">
+					<div class="col-xs-4">
+						<p id="s-sec-1">СТРАХОВАНИЕ<br>ВАШЕГО</p>
+						<p id="s-sec-2"><b>АВТОМОБИЛЯ</b></p>
+						<span class="s-sec-3">КАСКО</span><span class="s-sec-4">Диагностическая карта</span>
+						<span class="s-sec-5" >ОСАГО</span><span class="s-sec-4">Зеленые карты</span>
+						<button id="b-more-info"><span>УЗНАТЬ ПОДРОБНОСТИ >>></span></button>
+					</div>
+				</div>
+			</div>
+			<div class="item">
+				<div class="container">
+					<div class="col-xs-4">
+						<p id="s-sec-1">СТРАХОВАНИЕ<br>ВАШЕГО</p>
+						<p id="s-sec-2"><b>АВТОМОБИЛЯ</b></p>
+						<span class="s-sec-3">КАСКО</span><span class="s-sec-4">Диагностическая карта</span>
+						<span class="s-sec-5" >ОСАГО</span><span class="s-sec-4">Зеленые карты</span>
+						<button id="b-more-info"><span>УЗНАТЬ ПОДРОБНОСТИ >>></span></button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</section>
